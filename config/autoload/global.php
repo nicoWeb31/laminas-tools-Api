@@ -12,6 +12,7 @@ return [
         'authentication' => [
             'map' => [
                 'StatusTest\\V1' => 'status',
+                'blog\\V1' => 'basic_http_auth',
             ],
         ],
     ],
