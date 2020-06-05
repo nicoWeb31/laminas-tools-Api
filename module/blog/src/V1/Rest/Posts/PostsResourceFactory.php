@@ -1,4 +1,5 @@
 <?php
+
 namespace blog\V1\Rest\Posts;
 
 use StatusLib\Mapper;
